@@ -46,9 +46,9 @@ I've worked across **robotics research, autonomous systems, and software develop
 
 ## 🛠️ Tools & Tech
 
-- ⚡ **Electrical & Embedded:** PCB Design, ESP32, STM32, FPGA, Verilog, Arduino, Sensors, CAN, I2C, SPI, UART, Oscilloscope, Multimeter, Microcontroller, Soldering & Wiring
-- 💻 **Programming:** Python, Java, C/C++, SQL, Linux, Git, REST APIs, CI/CD
-- 🧰 **Engineering Tools:** KiCad, Altium, Cadence, SolidWorks, Autodesk Inventor, AutoCAD, Revit, MATLAB, Azure DevOps, Microsoft Azure, Microsoft Office, Microsoft Excel
+- **Electrical & Embedded:** PCB Design, ESP32, STM32, FPGA, Verilog, Arduino, Sensors, CAN, I2C, SPI, UART, Oscilloscope, Multimeter, Microcontroller, Soldering & Wiring
+- **Programming:** Python, Java, C/C++, SQL, Linux, Git, REST APIs, CI/CD
+- **Engineering Tools:** KiCad, Altium, Cadence, SolidWorks, Autodesk Inventor, AutoCAD, Revit, MATLAB, Azure DevOps, Microsoft Azure, Microsoft Office, Microsoft Excel
 
 <!-- ===================== PROJECTS ===================== -->
 
