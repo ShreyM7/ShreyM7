@@ -23,7 +23,7 @@
 - 🔧 I like projects where I can design the hardware **and** write the software
 - 🧪 I've worked on research involving robotics, computer vision, and biomedical applications
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Contributions Calendar
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
