@@ -1,5 +1,24 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shrey%20Mehta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineering%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+<table>
+<tr>
+<td width="50%">
+  <img src="/ascii-art.svg" width="100%">
+</td>
+<td width="50%">
+
+<h2>Hey, I'm Shrey 👋</h2>
+
+⚡ Electrical Engineering @ McMaster University<br><br>
+🤖 Robotics & Embedded Systems<br><br>
+🚀 McMaster Mars Rover Team<br><br>
+💼 Former Developer Intern @ TCS<br><br>
+🔧 Hardware + software enthusiast
+
+</td>
+</tr>
+</table>
+
 ## 📌 About Me
 - I'm **Shrey**, an Electrical Engineering student at **McMaster University**.
 - I like working on projects that combine **electronics, embedded systems, software, and robotics**. Most of what I build involves taking something from an idea or CAD model to a working system with sensors, microcontrollers, code, and hardware.
