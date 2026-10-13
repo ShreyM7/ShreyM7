@@ -12,16 +12,13 @@
 <td width="60%">
 
 <pre>
-shrey@github ─────────────────────────────────────
+shrey@mehta ─────────────────────────────────────
 
-• Education: ........ McMaster Electrical Engineering
-• Experience: ....... Developer Intern @ TCS
+• Education: ........ Electrical Engineering @ McMaster University
+• Current: .......... Biomechanics Research Fellow @ RadioSyn
+• Prev: ............. Developer Intern @ Tata Consultancy Services
 • Team: ............. McMaster Mars Rover Team
 • Focus: ............ Embedded Systems & Robotics
-
-• Languages: ........ Python, C/C++, Java
-• Hardware: ......... ESP32, STM32, FPGA
-• Tools: ............ KiCad, Altium, SolidWorks
 
 - Interests ──────────────────────────────────────
 
@@ -41,15 +38,15 @@ shrey@github ──────────────────────�
 
 ## 📌 About Me
 
-I'm **Shrey**, an Electrical Engineering student at **McMaster University**. I enjoy building systems that combine electronics, embedded software, and robotics, from initial CAD and circuit design to sensors, microcontrollers, and working prototypes.
+I'm **Shrey**, an Electrical Engineering student at **McMaster University**. I enjoy building systems that combine electronics, embedded software, and robotics, from initial circuit design and CAD to sensors, microcontrollers, and working prototypes.
 
-I've worked across **robotics research, autonomous systems, and software development**, including a developer internship at **Tata Consultancy Services (TCS)** and engineering work with the **McMaster Mars Rover Team**.
+I've worked across **robotics research, autonomous systems, and software development**, including a developer internship at **Tata Consultancy Services (TCS)**, biomechanics research at **RadioSyn**, and engineering work with the **McMaster Mars Rover Team**.
 
 <!-- ===================== TECH ===================== -->
 
 ## 🛠️ Tools & Tech
 
-- ⚡ **Electrical & Embedded:** PCB Design, ESP32, STM32, FPGA, Verilog, Arduino, Sensors, CAN, I2C, SPI, UART, Oscilloscope, Multimeter, Microcontrollers, Soldering & Wiring
+- ⚡ **Electrical & Embedded:** PCB Design, ESP32, STM32, FPGA, Verilog, Arduino, Sensors, CAN, I2C, SPI, UART, Oscilloscope, Multimeter, Microcontroller, Soldering & Wiring
 - 💻 **Programming:** Python, Java, C/C++, SQL, Linux, Git, REST APIs, CI/CD
 - 🧰 **Engineering Tools:** KiCad, Altium, Cadence, SolidWorks, Autodesk Inventor, AutoCAD, Revit, MATLAB, Azure DevOps, Microsoft Azure, Microsoft Office, Microsoft Excel
 
