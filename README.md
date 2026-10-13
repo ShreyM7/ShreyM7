@@ -6,7 +6,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="./assets/ascii-art.png" width="420" alt="Shrey ASCII Portrait">
+<img src="ascii-art-removebg-preview.png" width="420" alt="Shrey ASCII Portrait">
 
 </td>
 <td width="60%">
