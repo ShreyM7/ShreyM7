@@ -1,10 +1,41 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shrey%20Mehta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineering%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img src="/ascii-art-removebg-preview.png" width="100%" alt="Shrey Mehta GitHub Banner">
-</p>
+<table>
+<tr>
+<td width="40%" align="center">
+
+<img src="./assets/ascii-art.png" width="420" alt="Shrey ASCII Portrait">
+
+</td>
+<td width="60%">
+
+<pre>
+shrey@github ─────────────────────────────────────
+
+• Education: ........ McMaster Electrical Engineering
+• Experience: ....... Developer Intern @ TCS
+• Team: ............. McMaster Mars Rover Team
+• Focus: ............ Embedded Systems & Robotics
+
+• Languages: ........ Python, C/C++, Java
+• Hardware: ......... ESP32, STM32, FPGA
+• Tools: ............ KiCad, Altium, SolidWorks
+
+- Interests ──────────────────────────────────────
+
+• Robotics
+• Embedded Systems
+• Autonomous Systems
+• Electronics
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -20,35 +51,42 @@ I've worked across **robotics research, autonomous systems, and software develop
 
 - ⚡ **Electrical & Embedded:** PCB Design, ESP32, STM32, FPGA, Verilog, Arduino, Sensors, CAN, I2C, SPI, UART, Oscilloscope, Multimeter, Microcontrollers, Soldering & Wiring
 - 💻 **Programming:** Python, Java, C/C++, SQL, Linux, Git, REST APIs, CI/CD
-- 🧰 **Engineering Tools:** KiCad, Altium, Cadence, SolidWorks, Autodesk Inventor, AutoCAD, Revit, MATLAB, Azure DevOps, Microsoft Azure
+- 🧰 **Engineering Tools:** KiCad, Altium, Cadence, SolidWorks, Autodesk Inventor, AutoCAD, Revit, MATLAB, Azure DevOps, Microsoft Azure, Microsoft Office, Microsoft Excel
 
 <!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
 ### 🤖 VendiGo
+
 An autonomous mobile storefront built at **Hack the North 2026**, combining autonomous navigation, embedded hardware, voice interaction, and real-time inventory management.
 
 ### 🛰️ McMaster Mars Rover
+
 Designed and manufactured hardware for McMaster's competitive Mars rover, including its electrical enclosure and integration of **15+ electrical subsystems**.
 
 ### 🔬 Robotics Research
+
 Worked on robotics, computer vision, automation, and biomedical engineering applications through research at **McMaster University** and the **University of Toronto**.
 
 <!-- ===================== CONTACT ===================== -->
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shrey-mehta-0b3685260/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="32" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shreymehta940@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="32" alt="Email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://shreym7.github.io/ShreyMehta/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="32" alt="Portfolio">
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shrey-mehta-0b3685260/">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35" height="35" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:shreymehta940@gmail.com">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="35" height="35" alt="Email">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://shreym7.github.io/ShreyMehta/">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="35" height="35" alt="Portfolio">
+</a>
+
 </p>
