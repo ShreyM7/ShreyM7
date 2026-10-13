@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shrey%20Mehta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineering%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - I'm **Shrey**, an Electrical Engineering student at **McMaster University**.
 - I like working on projects that combine **electronics, embedded systems, software, and robotics**. Most of what I build involves taking something from an idea or CAD model to a working system with sensors, microcontrollers, code, and hardware.
@@ -35,8 +33,4 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
