@@ -21,7 +21,7 @@ Team       .... Electrical @ McMaster Mars Rover
 Prev       .... TCS, teaBOT
 
 Focus      .... Hardware & Embedded Systems
-Interests  .... Electronics, FPGA, Robotics
+Interests  .... Electronics, PCB, Robotics
 </pre>
 
 </td>
