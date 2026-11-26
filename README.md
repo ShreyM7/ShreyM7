@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shrey%20Mehta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineering%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Shrey%20Mehta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Electrical%20Engineering%20%40%20McMaster&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <!-- ===================== HEADER ===================== -->
 
@@ -12,20 +13,15 @@
 <td width="60%">
 
 <pre>
-shrey@mehta ─────────────────────────────────────
+shrey@mehta ─────────────────────────────────
 
-• Education: ........ Electrical Engineering @ McMaster University
-• Current: .......... Biomechanics Research Fellow @ RadioSyn
-• Prev: ............. Developer Intern @ Tata Consultancy Services
-• Team: ............. McMaster Mars Rover Team
-• Focus: ............ Embedded Systems & Robotics
+Education  .... Electrical Engineering @ McMaster
+Current    .... Electronics Research @ RadioSyn
+Team       .... Electrical @ McMaster Mars Rover
+Prev       .... TCS, teaBOT
 
-- Interests ──────────────────────────────────────
-
-• Robotics
-• Embedded Systems
-• Autonomous Systems
-• Electronics
+Focus      .... Hardware & Embedded Systems
+Interests  .... Electronics, FPGA, Robotics
 </pre>
 
 </td>
@@ -36,39 +32,56 @@ shrey@mehta ──────────────────────�
 
 <!-- ===================== ABOUT ===================== -->
 
-## 📌 About Me
+## About Me
 
-I'm **Shrey**, an Electrical Engineering student at **McMaster University**. I enjoy building systems that combine electronics, embedded software, and robotics, from initial circuit design and CAD to sensors, microcontrollers, and working prototypes.
+**building things that should exist.**
 
-I've worked across **robotics research, autonomous systems, and software development**, including a developer internship at **Tata Consultancy Services (TCS)**, biomechanics research at **RadioSyn**, and engineering work with the **McMaster Mars Rover Team**.
+Electrical Engineering @ McMaster University. Currently working on electronics research at RadioSyn and rover hardware at the McMaster Mars Rover Team.
+
+Interested in circuit design, embedded systems, digital hardware and robotics.
 
 <!-- ===================== TECH ===================== -->
 
-## 🛠️ Tools & Tech
+## Tools & Technologies
 
-- **Electrical & Embedded:** PCB Design, ESP32, STM32, FPGA, Verilog, Arduino, Sensors, CAN, I2C, SPI, UART, Oscilloscope, Multimeter, Microcontroller, Soldering & Wiring
-- **Programming:** Python, Java, C/C++, SQL, Linux, Git, REST APIs, CI/CD
-- **Engineering Tools:** KiCad, Altium, Cadence, SolidWorks, Autodesk Inventor, AutoCAD, Revit, MATLAB, Azure DevOps, Microsoft Azure, Microsoft Office, Microsoft Excel
+- **Electrical & Hardware:** PCB Design, Altium Designer, KiCad, PSpice, Circuit Debugging, Oscilloscope, Digital Multimeter, Soldering & Wiring
+- **Embedded & Digital Systems:** STM32, ESP32, FPGA, Verilog, Quartus Prime, Arduino, UART, I2C, SPI, PWM
+- **Programming:** C/C++, Python, Java, SQL, Linux, Git, Angular, REST APIs
+- **Engineering Tools:** MATLAB, SolidWorks, Autodesk Inventor, Azure DevOps, Microsoft Azure
 
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 Featured Projects
+## Featured Work
 
-### 🤖 VendiGo
+### VendiGo | Autonomous Mobile Storefront
 
-An autonomous mobile storefront built at **Hack the North 2026**, combining autonomous navigation, embedded hardware, voice interaction, and real-time inventory management.
+Built at Hack the North 2026, integrating STM32-based PWM motor control, ESP32, Raspberry Pi Zero, autonomous navigation and voice interaction.
 
-### 🛰️ McMaster Mars Rover
+**Top 32 out of 350 teams.**
 
-Designed and manufactured hardware for McMaster's competitive Mars rover, including its electrical enclosure and integration of **15+ electrical subsystems**.
+`STM32` `ESP32` `Raspberry Pi` `PWM` `Embedded Systems`
 
-### 🔬 Robotics Research
+### McMaster Mars Rover | Electrical Systems
 
-Worked on robotics, computer vision, automation, and biomedical engineering applications through research at **McMaster University** and the **University of Toronto**.
+Designed custom PCBs in Altium Designer, including an STM32-controlled power distribution board. Worked on a 48 V, 40 A battery distribution system with high-side MOSFET protection and onboard electrical integration.
+
+`Altium Designer` `STM32` `PSpice` `PCB Design` `Power Distribution`
+
+### RadioSyn | Electronics Research
+
+Working on control electronics for radiopharmaceutical processing, including PCB assembly, circuit simulation, hardware debugging and FPGA interface development.
+
+`FPGA` `Verilog` `Quartus Prime` `PSpice` `I2C` `SPI`
+
+### University of Toronto | Robotics Research
+
+Worked on robot-assisted surgical systems, computer vision and experimental validation for autonomous surgical applications.
+
+`Robotics` `Computer Vision` `BoofCV` `SolidWorks`
 
 <!-- ===================== CONTACT ===================== -->
 
-## 🔗 Connect with Me
+## Connect
 
 <p align="center">
 
@@ -77,7 +90,7 @@ Worked on robotics, computer vision, automation, and biomedical engineering appl
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:shreymehta940@gmail.com">
+<a href="mailto:mehtas63@mcmaster.ca">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="35" height="35" alt="Email">
 </a>
 &nbsp;&nbsp;&nbsp;
