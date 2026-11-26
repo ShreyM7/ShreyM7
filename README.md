@@ -73,11 +73,12 @@ Working on control electronics for radiopharmaceutical processing, including PCB
 
 `FPGA` `Verilog` `Quartus Prime` `PSpice` `I2C` `SPI`
 
-### University of Toronto | Robotics Research
+### teaBOT | Electrical Hardware Validation
 
-Worked on robot-assisted surgical systems, computer vision and experimental validation for autonomous surgical applications.
+Validated electrical hardware across 83 water-heater units, measuring current draw, resistance and thermal performance. Designed moisture-protection systems for heater electronics, reducing water-related failures by 96%.
 
-`Robotics` `Computer Vision` `BoofCV` `SolidWorks`
+`Hardware Validation` `Circuit Testing` `Electronics` `Reliability Testing`
+
 
 <!-- ===================== CONTACT ===================== -->
 
